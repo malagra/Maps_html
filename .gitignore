@@ -1,0 +1,19 @@
+# Carpetas que no deben subirse
+input/
+output/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Archivos de entorno
+.env
+*.env
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de VS Code
+.vscode/
