@@ -2,7 +2,8 @@ name: ent_31015_maps
 channels:
   - defaults
 dependencies:
-  - python=3.10.15
+  - python==3.10.18
   - geopandas
   - ipykernel
-
+  - openpyxl
+prefix: C:\ProgramData\anaconda3\envs\ent_31015_maps
